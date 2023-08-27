@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.content{
+    margin: 3rem 3rem;
+    height: 70vh;
+}
+.home{
+    color: black;
+    font-size: 25px;
+    margin: 30px;
+    padding: 0px 60px 0px 0px;
+}
+.resume{
+    color: rgb(7, 6, 6);
+}
